@@ -49,8 +49,7 @@ f1-tyre-degradation-2024/
 └── README.md
 ```
 
-> **Note:** Notebooks are developed in Google Colab and stored in Google Drive.  
-> 📁 [Access notebooks on Google Drive](https://drive.google.com/your-link-here) ← *(update this link)*
+
 
 ---
 
